@@ -8,7 +8,7 @@ Build details at: https://www.hackster.io/pnjorge
 
 <img src="images/load1small.jpg" width="50%">
 
-<img src="images/load1small.jpg" width="50%">
+<img src="images/load10small.jpg" width="50%">
 
 <img src="images/load10small.JPG" width="50%">
 
