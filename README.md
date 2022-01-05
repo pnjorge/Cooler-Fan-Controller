@@ -16,6 +16,8 @@ Build details at: https://www.hackster.io/pnjorge
 
 <img src="images/psu5small.jpg" width="50%">
 
+<img src="images/pcb1small.JPG" width="50%">
+
 <img src="images/load10small.JPG" width="50%">
 
 <img src="images/pc9small.JPG" width="50%">
